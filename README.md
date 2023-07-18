@@ -1,6 +1,7 @@
 # Casino_Game
 
 I have created a mini game named 'Casino' for fun.
+
 In this game you can enter amount and play till the amount becomes 0 or till you wish to.
 
 The rules of the games are :-
